@@ -1,0 +1,11 @@
+{
+  "name": "luxe-cut-portfolio",
+  "version": "1.0.0",
+  "description": "Portfólio de alta performance e agendamento inteligente para a Barbearia Felipe Alves.",
+  "scripts": {
+    "dev": "npx http-server -p 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
